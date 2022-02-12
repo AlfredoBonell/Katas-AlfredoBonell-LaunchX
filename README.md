@@ -7,3 +7,5 @@ Hola, mi nombre es Alfredo Bonell y soy un desarrollador de software entusiasta 
 GitHub: @AlfredoBonell (https://github.com/AlfredoBonell)
 
 LinkedIn: https://www.linkedin.com/in/alfredobonell/
+
+Repositorio donde se trabajó todos los módulos con sus katas: (https://github.com/AlfredoBonell/curso-full-stack-launch-x-python)
